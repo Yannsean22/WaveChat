@@ -4,13 +4,9 @@ WaveChat is an open-source communication platform designed to empower the Deaf a
 
 More on: https://yannkabambi.com/wavechat/
 
-##### Cloud:
-  * Firebase
-  * Mediapipe
-  * WebRTC
-  * ReactJS
-  * TensorFlow
-    
+```
+Current Progress: Able to connect to device camera - make call - detect certain hand gestures
+```
 
 ##### Desktop:
   * Firebase
@@ -21,9 +17,3 @@ More on: https://yannkabambi.com/wavechat/
   * TensorFlow
   * using: https://github.com/Yannsean22/electron-react-app-template.git
     
-##### Mobile:
-  * Firebase
-  * Mediapipe
-  * WebRTC
-  * React Native / Expo
-  * TensorFlow
