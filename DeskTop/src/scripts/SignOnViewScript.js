@@ -42,8 +42,9 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Sign in (future passcode / auth flow)
+  // TEMP: Sign in uses local guest onboarding until real auth is added
   signInBtn.onclick = () => {
-    alert("Sign in coming soon");
+    window.location.replace("./GuestSignOnView.html");
   };
 
   // Guest flow
