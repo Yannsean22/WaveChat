@@ -16,6 +16,6 @@ More on: https://www.yannkabambi.com/wavechat
 
 
 ### PROGRESS
-   <img src="images/IMG_5152.png" width="50">
-   <img src="images/IMG_5154.png" width="50">
+   <img src="images/IMG_5152.png" width="100">
+   <img src="images/IMG_5154.png" width="100">
  
