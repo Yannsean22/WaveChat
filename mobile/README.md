@@ -14,4 +14,8 @@ More on: https://www.yannkabambi.com/wavechat
   * React Native / Expo
   * TensorFlow
 
+
+### PROGRESS
+   <img src="images/IMG_5148.JPG" width="50">
+   <img src="images/IMG_5148.JPG" width="50">
  
