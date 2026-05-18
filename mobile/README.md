@@ -4,6 +4,9 @@ WaveChat is an open-source communication platform designed to empower the Deaf a
 
 More on: https://www.yannkabambi.com/wavechat
 
+ ```
+  Current Status: Current mobile prototype includes startup flow and early onboarding UI. Profile persistence is still in progress.
+  ```
 ##### Mobile:
   * Firebase
   * Mediapipe
@@ -11,6 +14,4 @@ More on: https://www.yannkabambi.com/wavechat
   * React Native / Expo
   * TensorFlow
 
-  ```
-  Current Status: Current mobile prototype includes startup flow and early onboarding UI. Profile persistence is still in progress.
-  ```
+ 
